@@ -5,4 +5,9 @@ git remote add origin <link>
 git add . 
 git add practice.py
 
+git commit -m "anything"
+
 git push origin master
+
+To check status
+git status
