@@ -11,3 +11,5 @@ git push origin master
 
 To check status
 git status
+
+More commands I will learn and implement
